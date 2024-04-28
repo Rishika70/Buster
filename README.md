@@ -1,8 +1,14 @@
 # Buster
 
+### An application to manage and distribute tasks within a department to enhance team efficiency.
 
+- As a User, I can create task entries with details such as task description, urgency, and assigned department.
+- As a User, I can view a list of tasks assigned to my department.
+- As a User, I can update the status of tasks (e.g., completed, pending, transferred).
+- As a User, I can transfer tasks to another department if the current workload is too high.
 
-![Screenshot]("C:\Users\rishi\OneDrive\Pictures\Screenshots\Screenshot 2024-04-28 094709.png")
+Overview
+Hosting
 
 ## Documentation
 
